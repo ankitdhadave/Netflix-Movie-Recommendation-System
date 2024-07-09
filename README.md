@@ -1,5 +1,5 @@
 # Netflix-Movie-Recommendation-System
-## roblem Statement 
+## Problem Statement 
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
 
 ## Real world/Business Objectives and constraints 
@@ -35,6 +35,7 @@ Dates have the format YYYY-MM-DD.
 
 ### Example Data point 
 1:
+
 1488844,3,2005-09-06
 822109,5,2005-05-13
 885013,4,2005-10-19
@@ -109,4 +110,5 @@ Mean Absolute Percentage Error: https://en.wikipedia.org/wiki/Mean_absolute_perc
 Root Mean Square Error: https://en.wikipedia.org/wiki/Root-mean-square_deviation
 ### Machine Learning Objective and Constraints 
 Minimize RMSE.
+
 Try to provide some interpretability.
